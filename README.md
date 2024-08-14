@@ -1,5 +1,5 @@
 # DOTNETDemo
-recruit-dotnetframework-v2 API change config file based on your DB or used localhost make use of some real Credit/Debit card number to test API
+Change config file based on your DB or use localhost make use of some real Credit/Debit card number to test API
 Sample Card Numbers :
 4000000000001000	11/2026	901	AUTHORIZATION_AMOUNT_ALREADY_REVERSED
 4000000000001000	11/2026	902	AUTHORIZATION_AMOUNT_NOT_VALID
